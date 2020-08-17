@@ -7,9 +7,9 @@
 <i align="Left">
 Changelog: V1.1-Users can choose board,tile and text colors
 </i><br>
-<p align="center">
-<img src="md files/SS100.gif" width="440" height="600">
-<img src="md files/SS101.gif" width="440" height="600">
+<p align="left">
+<img src="md files/SS100.gif" width="400" height="600">
+<img src="md files/SS101.gif" width="400" height="600">
 </p>
 <h5 align="center">
 Feel free to clone and try it out
